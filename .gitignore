@@ -1,0 +1,6 @@
+# 忽略dist文件
+#/dist/
+
+
+# 忽略www下所有pdf文件
+www/*.pdf
